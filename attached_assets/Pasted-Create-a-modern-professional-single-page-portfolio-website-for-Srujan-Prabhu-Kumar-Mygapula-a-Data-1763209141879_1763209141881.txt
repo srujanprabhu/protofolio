@@ -1,0 +1,205 @@
+Create a modern, professional single-page portfolio website for Srujan Prabhu Kumar Mygapula, a Data Engineer and AI/ML specialist.
+
+DESIGN STYLE & IMAGERY:
+- Clean, minimal aesthetic with sophisticated color palette (deep blues #1e3a8a, slate grays #334155, accent with amber #f59e0b)
+- Modern glassmorphism effects and subtle gradients
+- Smooth scroll animations and micro-interactions
+- Responsive design that works perfectly on all devices
+- Professional typography using Inter or Poppins font family
+
+IMAGE GUIDELINES:
+- Hero Section: Use abstract geometric patterns, neural network visualizations, or flowing data streams (NOT photos)
+- Project Cards: Use relevant icon illustrations or abstract tech graphics:
+  * For automation projects: workflow diagrams, connected nodes, gear icons
+  * For AI projects: brain networks, circuit patterns, ML model visualizations
+  * For computer vision: eye tracking visuals, gesture recognition graphics
+- Skills Section: Use modern tech icons from libraries like Lucide React
+- Background Elements: Subtle gradient meshes, floating geometric shapes, or dot patterns
+- NO stock photos of people coding or generic tech images
+- Use SVG illustrations and icons for a crisp, professional look
+- Color scheme should match the overall palette - blues, grays, amber accents
+
+SECTIONS TO INCLUDE:
+
+1. HERO SECTION:
+   - Eye-catching introduction with animated gradient text
+   - Name: Srujan Prabhu Kumar Mygapula
+   - Tagline: "Data Engineer & AI Automation Specialist"
+   - Subtitle: "Building intelligent systems that solve real-world problems through workflow automation and AI-driven solutions"
+   - Location: Eluru, Andhra Pradesh
+   - Animated typing effect or fade-in animation
+   - Call-to-action buttons: "View My Work" and "Get In Touch"
+   - Background: Abstract geometric pattern or neural network visualization
+
+2. ABOUT ME:
+   - Professional Summary: "Recent Computer Science graduate specializing in AI & ML with hands-on experience in workflow automation, API integration, and AI-driven systems. Proficient in building scalable automation pipelines using n8n, Python, and JavaScript to connect cloud APIs, trigger intelligent workflows, and optimize business processes. Passionate about designing automation-first solutions that improve efficiency and reduce manual effort."
+   - Highlight: 4 IEEE Research Publications
+   - Current Role: Data Engineer at Relu Consultancy (Apr 2025 – Present)
+   - Education: Bachelor of Engineering in Computer Science (AI & ML) - CGPA: 8.04 (2021-2025)
+
+3. SKILLS SECTION (Display as animated skill cards with icons):
+   
+   Technical Skills:
+   - Programming: Python, JavaScript
+   - Automation: n8n, Selenium, PyAutoGUI
+   - AI/ML: Machine Learning, Deep Learning, Computer Vision, GenAI, LLMs, RAG, Agentic AI
+   - Frameworks: TensorFlow
+   - APIs & Integration: REST APIs, OAuth2, Google APIs
+   - Databases: SQL, MongoDB, Snowflake
+   - Tools: GitHub, NLP
+   
+   Soft Skills:
+   - Team Leadership
+   - Communication Skills
+   - Problem Solving
+   - Analytical Skills
+   
+   Use progress bars or circular progress indicators with smooth animations
+
+4. PROFESSIONAL EXPERIENCE:
+   
+   Data Engineer | Relu Consultancy (Apr 2025 – Present)
+   - Built scalable web scraping pipelines to extract and preprocess data using Python and LLMs
+   - Designed and implemented n8n-based automation workflows for data transformation, AI integration, and cross-system triggers
+   - Developed REST API-based workflows and integrated third-party SaaS tools using OAuth2 authentication
+   - Worked closely with product teams to automate repetitive business processes, increasing operational efficiency
+   
+   Display as a timeline card with hover effects and animated entrance
+
+5. RESEARCH PUBLICATIONS (4 IEEE Publications):
+   
+   Create an elegant section with publication cards:
+   
+   Publication 1:
+   - Title: "GAN-based Image Generation Research"
+   - Conference: IEEE
+   - Link: https://ieeexplore.ieee.org/document/10841324
+   - Add external link icon
+   
+   Publication 2:
+   - Title: "Performance Evaluation of Heart Failure Prediction using Machine Learning"
+   - Conference: IEEE 2023 International Conference on Sustainable Communication Networks and Application (ICSCNA)
+   - Link: https://ieeexplore.ieee.org/document/10368606
+   - Add external link icon
+   
+   Publication 3:
+   - Title: "Cursor Movement with Eye Movement - Assistive Technology"
+   - Conference: IEEE International Conference SPARC 2024
+   - Link: https://ieeexplore.ieee.org/document/10828631
+   - Add external link icon
+   
+   Publication 4:
+   - Title: "Additional IEEE Publication"
+   - Conference: IEEE
+   - Note: "Link available upon request"
+
+6. FEATURED PROJECTS SHOWCASE:
+   Display 4 projects in a grid with hover effects and "View Details" buttons:
+   
+   Project 1: "Smart Cart Recovery System - E-commerce Automation"
+   - Description: Designed an n8n workflow that triggers when someone abandons a cart. Automatically generates a personalized AI video showcasing the product with the product page background (CG), then sends it via email and MMS.
+   - Impact: Increased customer conversion without spamming, saved 90% of client's time and effort on customer follow-ups
+   - Technologies: n8n, AI Video Generation, Email/MMS Integration, Workflow Automation
+   - Icon/Image: Shopping cart with automation arrows or workflow diagram
+   
+   Project 2: "Eye-Controlled Cursor System - Assistive Technology"
+   - Description: Developed a system for physically disabled individuals to control computer cursors using eye movements. Enables hands-free computer interaction for accessibility.
+   - Achievement: Published research paper in IEEE International Conference SPARC 2024
+   - Technologies: MediaPipe, Computer Vision, PyAutoGUI, Python
+   - IEEE Link: https://ieeexplore.ieee.org/document/10828631
+   - Icon/Image: Eye tracking visualization or accessibility symbol
+   
+   Project 3: "AI-Powered Due Diligence Generator"
+   - Description: Built an n8n workflow that takes a company name as input, crawls the website, performs Google searches, and gathers context about revenue and key metrics. Uses AI with optimized prompts to automatically create and deploy a comprehensive due diligence webpage.
+   - Impact: Saved 95% of client's time in creating due diligence reports
+   - Technologies: n8n, Web Scraping, AI/LLMs, Automated Deployment
+   - Icon/Image: Document generation or data analysis visual
+   
+   Project 4: "Medical Diagnosis AI Assistant - RAG System"
+   - Description: Developed a medical diagnosis model using Large Language Models and RAG (Retrieval-Augmented Generation) techniques to diagnose diseases based on user-provided symptoms. System retrieves relevant medical data for accurate, context-aware disease predictions.
+   - Technologies: LLMs, RAG, Snowflake SQL, Python
+   - Icon/Image: Medical AI or healthcare technology visual
+
+7. HOBBIES & INTERESTS:
+   Create fun, animated cards with icons and descriptions:
+   
+   ♟️ Chess Enthusiast
+   - "Strategic thinking on and off the board - I love the mental challenge of chess"
+   
+   🎬 Movie Lover
+   - "Passionate about cinema and storytelling - appreciating the art of filmmaking"
+   
+   Use subtle hover animations and relevant icons
+
+8. CONTACT SECTION:
+   
+   Contact Information:
+   - Email: srujanprabhu18@gmail.com
+   - Phone: +91 7382099233
+   - Location: Eluru, Andhra Pradesh
+   
+   Social Media Links (with icons):
+   - LinkedIn: linkedin.com/in/srujan-prabhu
+   - GitHub: github.com/srujanprabhu
+   - Instagram: @srujan.__.prabhu
+   
+   Include:
+   - Clickable social media icons with hover effects
+   - A functional contact form with fields: Name, Email, Subject, Message
+   - Form validation with smooth error messages
+   - "Send Message" button with loading state
+
+TECHNICAL REQUIREMENTS:
+- Use React with hooks (useState, useEffect) for interactivity
+- Implement smooth scrolling between sections (scroll-behavior: smooth)
+- Add scroll-triggered animations using Intersection Observer API
+- Fixed navigation bar with sections: Home, About, Skills, Experience, Publications, Projects, Hobbies, Contact
+- Navigation bar should appear/hide on scroll with smooth transition
+- Dark/light mode toggle switch (default to light mode, save preference)
+- Subtle parallax effects on hero section
+- Micro-interactions on all buttons and cards (scale, shadow, color transitions)
+- Loading animation on initial page load
+- All external links should open in new tabs
+
+ANIMATION PREFERENCES:
+- Fade-in and slide-up animations for sections as they scroll into view
+- Hover effects that lift cards with subtle shadows (translateY and box-shadow)
+- Smooth color transitions on all interactive elements (transition: all 0.3s ease)
+- Typing effect or gradient animation for hero tagline
+- Floating/bobbing animations for decorative background elements
+- Stagger animations for skill cards and project cards (delay each card slightly)
+- Smooth page transitions
+
+COLOR PALETTE:
+- Primary: #1e3a8a (deep blue)
+- Secondary: #334155 (slate gray)
+- Accent: #f59e0b (amber/gold)
+- Success: #10b981 (green for highlights)
+- Background Light: #ffffff (pure white)
+- Background Secondary: #f8fafc (light gray)
+- Text Primary: #1e293b (dark slate)
+- Text Secondary: #64748b (medium gray)
+
+LAYOUT STRUCTURE:
+- Maximum width: 1200px centered
+- Consistent padding: 80px vertical, 20px horizontal on mobile
+- Section spacing: 100px between major sections
+- Card spacing: 24px gap in grids
+- Border radius: 12px for cards, 8px for buttons
+- Box shadows: subtle, layered shadows for depth
+
+RESPONSIVE DESIGN:
+- Mobile: Single column layout, hamburger menu
+- Tablet: 2-column grid for projects and skills
+- Desktop: 3-4 column grid where appropriate
+- Breakpoints: 640px (mobile), 768px (tablet), 1024px (desktop)
+
+MAKE IT:
+- Premium and modern feeling
+- Professional enough for recruiters
+- Clean and elegant (NOT flashy or over-designed)
+- Fast and performant
+- Accessible (proper semantic HTML, ARIA labels)
+- SEO-friendly (meta tags, proper headings)
+
+The portfolio should showcase technical expertise in automation, AI, and workflow engineering while maintaining a sophisticated, professional aesthetic.
